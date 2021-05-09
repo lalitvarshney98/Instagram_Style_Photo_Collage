@@ -9,6 +9,7 @@ Libraries Used in Project.
 * ` cv2 `
 * ` pandas `
 * ` matplotlib `
+
 In this, we will build a photo collage using 5 images of pokemon as given in the dataset.
 
 **Sample Image -** <br>
